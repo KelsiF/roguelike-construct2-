@@ -1,1 +1,2 @@
-# roguelike-construct2-
+# roguelike
+### A simple bagel project. Initially, it was created simply as a prototype. Maybe someday it will be something more...
